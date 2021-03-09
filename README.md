@@ -5,8 +5,6 @@
     <br />
 </p>
 
-https://support.spotify.com/us/article/data-rights-and-privacy-settings/
-
 
 ### Built With
 
