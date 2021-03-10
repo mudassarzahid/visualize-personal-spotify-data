@@ -2,8 +2,8 @@ import json
 import plotly as py
 import plotly.graph_objs as go
 
-# make sure to merge all StreamingHistory files into one file
-with open('StreamingHistory.json', 'r') as json_data:
+# replace 'example_data.json' with 'StreamingHistory.json', merge all StreamingHistory files if you received multiple
+with open('example_data.json', 'r') as json_data:
   data = json.load(json_data)
 
 
