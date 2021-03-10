@@ -1,0 +1,62 @@
+[
+  {
+    "endTime" : "2019-01-18 00:43",
+    "artistName" : "Cool Artist",
+    "trackName" : "Cool Song",
+    "msPlayed" : 9719
+  },
+  {
+    "endTime" : "2019-01-18 00:43",
+    "artistName" : "Cool Artist",
+    "trackName" : "Cool Song",
+    "msPlayed" : 9719
+  },
+  {
+    "endTime" : "2019-01-18 00:44",
+    "artistName" : "Awesome Artist",
+    "trackName" : "Awesome Song",
+    "msPlayed" : 55333
+  },
+  {
+    "endTime" : "2019-01-18 00:47",
+    "artistName" : "Awesome Artist",
+    "trackName" : "Awesome Song",
+    "msPlayed" : 55333
+  },
+  {
+    "endTime" : "2019-01-18 00:50",
+    "artistName" : "Great Artist",
+    "trackName" : "Great Song",
+    "msPlayed" : 203600
+  },
+  {
+    "endTime" : "2019-01-18 00:54",
+    "artistName" : "Awesome Artist",
+    "trackName" : "Awesome Song",
+    "msPlayed" : 55333
+  },
+  {
+    "endTime" : "2019-01-18 00:57",
+    "artistName" : "Great Artist",
+    "trackName" : "Great Song",
+    "msPlayed" : 203600
+  },
+  {
+    "endTime" : "2019-01-18 01:01",
+    "artistName" : "Great Artist",
+    "trackName" : "Great Song",
+    "msPlayed" : 203600
+  },
+  {
+    "endTime" : "2019-01-18 01:05",
+    "artistName" : "Cool Artist",
+    "trackName" : "Cool Song",
+    "msPlayed" : 9719
+  },
+  {
+    "endTime" : "2019-01-18 01:08",
+    "artistName" : "Awesome Artist",
+    "trackName" : "Awesome Song",
+    "msPlayed" : 55333
+  }
+]
