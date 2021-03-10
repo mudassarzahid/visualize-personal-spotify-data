@@ -33,5 +33,5 @@ To get a local copy up and running follow these simple steps.
 
 ## Usage example
 <span align="center">
-<img src="example_plot.png" alt="example">
+<img src="public/example_plot.png" alt="example">
 </span>
