@@ -10,3 +10,7 @@
 
 * [Plotly](https://github.com/plotly)
 
+## Usage example
+<span align="center">
+<img src="example_plot.png" alt="example">
+</span>
